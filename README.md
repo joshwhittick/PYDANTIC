@@ -1,0 +1,2 @@
+# PYDANTIC
+testing pydantics + Gemini
